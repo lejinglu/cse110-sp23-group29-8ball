@@ -5,15 +5,15 @@
 
 ## Attendees
 People who attended:
-- [ ]Noah Jaurigue
-- [ ]Aadit Agarwal
-- [ ]Alexis Chao
-- [ ]yue yin
-- [ ]Simone Wright
-- [ ]Justin Ubamadu
-- [ ]Vuong Bui
-- [ ]Lejing Lu
-- [ ]Anvi Mittal
+- [ ] Noah Jaurigue
+- [ ] Aadit Agarwal
+- [ ] Alexis Chao
+- [ ] yue yin
+- [ ] Simone Wright
+- [ ] Justin Ubamadu
+- [ ] Vuong Bui
+- [ ] Lejing Lu
+- [ ] Anvi Mittal
 
 ## Agenda Items
 
