@@ -17,6 +17,9 @@ People who attended:
 
 ## Agenda Items
 
-
-Agenda Item 1 | • <br>• <br>• <br>• <br>• 
-Agenda Item 2 | • <br>• <br>• <br>• <br>• 
+### Agenda Item 1
+- A
+- B
+### Agenda Item 2
+- A
+- B
