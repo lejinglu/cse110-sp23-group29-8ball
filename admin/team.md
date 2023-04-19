@@ -1,4 +1,4 @@
-# (name) - Team Page
+# Javascript Jesters - Team Page
 
 ## Values
 
