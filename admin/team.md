@@ -18,7 +18,8 @@ Hello! My name is Noah Jaurigue am a second year student majoring in Computer Sc
 Hello, name is Simone and I am a first-year transfer student majoring in Computer Science. I love computer graphics and I aspire to be a graphics programmer as a profession. I hope to learn how to collaborate with a team in this course.\
 ### Justin Ubamadu - [GitHub](https://github.com/jubamadu)
 Hi, I'm Justin. I'm a Fourth Year student majoring in Cognitive Science and minoring in Computer Science. I'm passionate about data crunching and developing small programming tools to further my efforts in data processing and visualization.\
-### Vuong Bui - [GitHub]()
+### Vuong Bui - [GitHub](https://github.com/vkbui)
+Hi, my name is Vuong and I am a second-year Computer Engineering student. I hope to gain some full-stack development experience and learn to work as a team in this class in order to be the best software engineer I can be!\
 ### Lejing Lu - [GitHub](https://github.com/lejinglu)
-Hi, I'm Lejing. I'm a third Year student major in Math-CD. I hope I can be a Software Developper in the future, and I wish to learn more about teamwork and collaboration to make project in this class. 
+Hi, I'm Lejing. I'm a third Year student major in Math-CS. I hope I can be a Software Developper in the future, and I wish to learn more about teamwork and collaboration to make project in this class. 
 ### Anvi Mittal - [GitHub]()
