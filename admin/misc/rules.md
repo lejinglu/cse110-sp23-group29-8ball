@@ -32,7 +32,7 @@ As a team, every member agrees upon the following rules and expectations:
 Be honest and communicate!
 1. Try and communicate directly with the person/s you have a conflict with.
 2. If not resolved, reach out to the team leads (together if possible) to resolve the situation.
-3. If necessary, communicate with the TAs regarding the situation in order to deescalate. \
+3. If necessary, communicate with the TAs regarding the situation in order to deescalate.
 
 ### General Responsibilities
 As the quarter continues, we will adapt and add the appropriate responsibilities expected of each team member.
