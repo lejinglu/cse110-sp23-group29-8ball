@@ -15,7 +15,7 @@ Hello! My name is Noah Jaurigue am a second year student majoring in Computer Sc
 ### Alexis Chao - [GitHub]()
 ### yue yin - [GitHub]()
 ### Simone Wright - [GitHub]()
-### Justin Ubamadu - [GitHub]()
+### Justin Ubamadu - [GitHub](https://github.com/jubamadu)
 ### Vuong Bui - [GitHub]()
 ### Lejing Lu - [GitHub]()
 ### Anvi Mittal - [GitHub]()
