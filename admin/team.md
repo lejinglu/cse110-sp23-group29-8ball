@@ -14,7 +14,8 @@ Hello! My name is Noah Jaurigue am a second year student majoring in Computer Sc
 ### Aadit Agarwal - [GitHub](https://github.com/aaadit24)
 ### Alexis Chao - [GitHub]()
 ### yue yin - [GitHub]()
-### Simone Wright - [GitHub]()
+### Simone Wright - [GitHub](https://github.com/LiquidPeach)
+Hello, name is Simone and I am a first-year transfer student majoring in Computer Science. I love computer graphics and I aspire to be a graphics programmer as a profession. I hope to learn how to collaborate with a team in this course.\
 ### Justin Ubamadu - [GitHub](https://github.com/jubamadu)
 Hi, I'm Justin. I'm a Fourth Year student majoring in Cognitive Science and minoring in Computer Science. I'm passionate about data crunching and developing small programming tools to further my efforts in data processing and visualization.\
 ### Vuong Bui - [GitHub]()
