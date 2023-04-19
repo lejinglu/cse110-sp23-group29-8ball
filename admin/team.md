@@ -18,5 +18,6 @@ Hello! My name is Noah Jaurigue am a second year student majoring in Computer Sc
 ### Justin Ubamadu - [GitHub](https://github.com/jubamadu)
 Hi, I'm Justin. I'm a Fourth Year student majoring in Cognitive Science and minoring in Computer Science. I'm passionate about data crunching and developing small programming tools to further my efforts in data processing and visualization.\
 ### Vuong Bui - [GitHub]()
-### Lejing Lu - [GitHub]()
+### Lejing Lu - [GitHub](https://github.com/lejinglu)
+Hi, I'm Lejing. I'm a third Year student major in Math-CD. I hope I can be a Software Developper in the future, and I wish to learn more about teamwork and collaboration to make project in this class. 
 ### Anvi Mittal - [GitHub]()
