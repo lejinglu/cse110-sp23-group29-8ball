@@ -11,6 +11,7 @@
 ### Noah Jaurigue - [GitHub](https://github.com/njaurigue)
 Hello! My name is Noah Jaurigue am a second year student majoring in Computer Science with a minor in Cognitive Science. I have a huge passion for coding and I hope to leverage my skills and professional experience towards a Software Development position one day!
 ### Aadit Agarwal - [GitHub](https://github.com/aaadit24)
+Hello, I'm Aadit. Im a sophmore student majoring in Mathematics - Computer Science. I love software engineering, and i am especially interested in AI. Through this class I hope to learn and understand how projects in the real world are completed anm maintained.
 ### Alexis Chao - [GitHub](https://github.com/ucsdalexis)
 Hello! My name is Alexis Chao. I am a first year transfer student majoring in Computer Science. I have been recently gaining in interest in UX/UI design and design in general but I still really enjoy doing random coding projects and learning about algorithms in the classes I am taking!
 ### Yue Yin - [GitHub]()
