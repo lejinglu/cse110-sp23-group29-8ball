@@ -25,3 +25,4 @@ Hi, my name is Vuong and I am a second-year Computer Engineering student. I hope
 ### Lejing Lu - [GitHub](https://github.com/lejinglu)
 Hi, I'm Lejing. I'm a third Year student major in Math-CS. I hope I can be a Software Developper in the future, and I wish to learn more about teamwork and collaboration to make project in this class. 
 ### Anvi Mittal - [GitHub]()
+Hi, I'm Anvi Mittal and I'm a second year Mathematics/Computer Science major at Sixth college. I have experience coding in several programming languages and I enjoy bringing ideas to life through programming!
