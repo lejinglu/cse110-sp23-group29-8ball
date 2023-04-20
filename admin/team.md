@@ -24,5 +24,5 @@ Hi, I'm Justin. I'm a Fourth Year student majoring in Cognitive Science and mino
 Hi, my name is Vuong and I am a second-year Computer Engineering student. I hope to gain some full-stack development experience and learn to work as a team in this class in order to be the best software engineer I can be!
 ### Lejing Lu - [GitHub](https://github.com/lejinglu)
 Hi, I'm Lejing. I'm a third Year student major in Math-CS. I hope I can be a Software Developper in the future, and I wish to learn more about teamwork and collaboration to make project in this class. 
-### Anvi Mittal - [GitHub]()
+### Anvi Mittal - [GitHub](https://github.com/AnviMittal)
 Hi, I'm Anvi Mittal and I'm a second year Mathematics/Computer Science major at Sixth college. I have experience coding in several programming languages and I enjoy bringing ideas to life through programming!
