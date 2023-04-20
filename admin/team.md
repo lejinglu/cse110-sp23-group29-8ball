@@ -1,10 +1,8 @@
-# Javascript Jesters - Team Page
+# JavaScript Jesters - Team Page
 
-## Values
-
-
-
-
+![JavaScript Jesters Logo](misc/javascriptJesters.png)
+## Intro
+Hello! We are the JavaScript Jesters! We enjoy having fun and joking around while writing code and working hard!
 
 ## Roster
 
