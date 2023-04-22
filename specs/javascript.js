@@ -18,4 +18,3 @@ function getAnswer() {
       document.getElementById("answer").innerText = answer;
     }
   }
-  
