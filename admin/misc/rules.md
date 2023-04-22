@@ -29,10 +29,10 @@ As a team, every member agrees upon the following rules and expectations:
 - Utilize the chat to share and listen to opinions (be active!).
 
 ### Conflict Resolution
-Be honest and communicate!
-1. Try and communicate directly with the person/s you have a conflict with.
-2. If not resolved, reach out to the team leads (together if possible) to resolve the situation.
-3. If necessary, communicate with the TAs regarding the situation in order to deescalate.
+- Be honest and communicate!
+- Try and communicate directly with the person/s you have a conflict with.
+- If not resolved, reach out to the team leads (together if possible) to resolve the situation.
+- If necessary, communicate with the TAs regarding the situation in order to deescalate.
 
 ### General Responsibilities
 As the quarter continues, we will adapt and add the appropriate responsibilities expected of each team member.
